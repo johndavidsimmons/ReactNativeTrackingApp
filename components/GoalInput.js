@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { View, TextInput, Button, StyleSheet, Modal } from 'react-native'
+import { View, TextInput, Button, StyleSheet, Modal } from 'react-native';
+import { ACPCore } from '@adobe/react-native-acpcore';
 
 const GoalInput = props => {
     const [enteredGoal, setEnteredGoal] = useState("");
@@ -12,6 +13,8 @@ const GoalInput = props => {
         props.onAddGoal(enteredGoal);
         setEnteredGoal("");
     }
+    let contextData = {"key1": "value1", "key2": "value2"}
+    ACPCore.trackState("AddGoalModal", contextData);
     return (
         <Modal visible={props.visible} animationType="slide">
             <View style={styles.inputContainer}>

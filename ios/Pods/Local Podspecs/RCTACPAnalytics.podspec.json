@@ -1,0 +1,34 @@
+{
+  "name": "RCTACPAnalytics",
+  "version": "1.1.3",
+  "summary": "Analytics library for Adobe Experience Cloud SDK. Written and Supported by Adobe.",
+  "authors": "Adobe Mobile SDK Team",
+  "homepage": "https://github.com/adobe/react-native-acpanalytics",
+  "license": "Apache 2.0 License",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/adobe/react-native-acpanalytics.git",
+    "tag": "1.1.3"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "SystemConfiguration",
+    "WebKit",
+    "UserNotifications"
+  ],
+  "libraries": [
+    "sqlite3.0",
+    "c++",
+    "z"
+  ],
+  "vendored_libraries": "ios/libs/libACPAnalytics_iOS.a"
+}

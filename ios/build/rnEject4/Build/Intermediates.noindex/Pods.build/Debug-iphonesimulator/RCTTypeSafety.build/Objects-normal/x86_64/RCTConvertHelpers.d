@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Optional.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Portability.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/CPortability.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Traits.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Utility.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

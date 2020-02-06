@@ -1,0 +1,16 @@
+apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+include ':@adobe_react-native-acpanalytics'
+project(':@adobe_react-native-acpanalytics').projectDir = new File(rootProject.projectDir, '../node_modules/@adobe/react-native-acpanalytics/android')
+include ':@adobe_react-native-acpcore'
+project(':@adobe_react-native-acpcore').projectDir = new File(rootProject.projectDir, '../node_modules/@adobe/react-native-acpcore/android')
+include ':react-native-screens'
+project(':react-native-screens').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-screens/android')
+include ':react-native-reanimated'
+project(':react-native-reanimated').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-reanimated/android')
+include ':react-native-gesture-handler'
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+includeUnimodulesProjects()
+
+rootProject.name = 'rnEject4'
+
+include ':app'

@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/rnEject4/AppDelegate.m \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/rnEject4/AppDelegate.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/UMReactNativeAdapter/UMNativeModulesProxy.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/RCTACPCore/ACPCore.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/RCTACPCore/ACPLifecycle.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/RCTACPCore/ACPIdentity.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/RCTACPCore/ACPSignal.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/RCTACPAnalytics/ACPAnalytics.h

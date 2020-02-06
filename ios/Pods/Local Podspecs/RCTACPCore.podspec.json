@@ -1,0 +1,39 @@
+{
+  "name": "RCTACPCore",
+  "version": "1.2.1",
+  "summary": "Core library for Adobe Experience Cloud SDK. Written and Supported by Adobe.",
+  "authors": "Adobe Mobile SDK Team",
+  "homepage": "https://github.com/adobe/react-native-acpcore",
+  "license": "Apache 2.0 License",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/adobe/react-native-acpcore.git",
+    "tag": "1.2.1"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "SystemConfiguration",
+    "WebKit",
+    "UserNotifications"
+  ],
+  "libraries": [
+    "sqlite3.0",
+    "c++",
+    "z"
+  ],
+  "vendored_libraries": [
+    "ios/libs/libACPCore_iOS.a",
+    "ios/libs/libACPIdentity_iOS.a",
+    "ios/libs/libACPLifecycle_iOS.a",
+    "ios/libs/libACPSignal_iOS.a"
+  ]
+}

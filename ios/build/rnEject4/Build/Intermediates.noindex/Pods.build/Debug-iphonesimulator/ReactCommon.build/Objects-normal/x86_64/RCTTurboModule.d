@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Optional.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Portability.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/CPortability.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Traits.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/Utility.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/johnsimmons/Desktop/code/rnEject4/ios/Pods/Folly/folly/CppAttributes.h
